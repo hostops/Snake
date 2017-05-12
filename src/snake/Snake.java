@@ -24,7 +24,6 @@ import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.event.ActionEvent;
-import javafx.event.Event;
 import javafx.geometry.Point2D;
 import javafx.util.Duration;
 
@@ -37,7 +36,7 @@ public class Snake {
 //<editor-fold desc="Fields">
 
   private Function gameOverFunction;
-  private Deque<SnakeElement> snake = new LinkedList<>();
+  private final Deque<SnakeElement> snake = new LinkedList<>();
   private final double width;
   private final double height;
   private final Timeline timeline = new Timeline();
