@@ -12,3 +12,8 @@ It has already implemeted UI module for desktop app, but you can simply replace 
 It has also graphical **SnakeElement** which converts "virtual" SnakeElement into circle. Main functions are stored in class SnakeFXMLController which handles user inputs.
 
 For more information check project website(http://java-snake.com-1.rf.gd), documentation(http://java-snake.com-1.rf.gd/javadoc/index.html) and source (**Snake/src/snake/**).
+#Some images
+<br/>
+<img width="300px" src="https://github.com/jakobhostnik/Snake/blob/master/src/snake/Java-snake-website(java-snake)/java-snake_files/game.png?raw=true"/><br/>
+<img width="300px" src="https://github.com/jakobhostnik/Snake/blob/master/src/snake/Java-snake-website(java-snake)/java-snake_files/game1.png?raw=true"/><br/>
+<img width="300px" src="https://github.com/jakobhostnik/Snake/blob/master/src/snake/Java-snake-website(java-snake)/java-snake_files/game3.png?raw=true"/><br/>
