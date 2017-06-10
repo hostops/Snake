@@ -1,2 +1,5 @@
 /dist/
 /build/
+/nbproject/
+/build.xml
+/mmanifest.mf
