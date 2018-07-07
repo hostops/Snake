@@ -17,4 +17,4 @@ For more information check project website (https://jakobhostnik.github.io/Snake
 <br/>
 <img width="300px" src="https://raw.githubusercontent.com/jakobhostnik/Snake/master/gh-pages/java-snake_files/game.png"/><br/><br/>
 <img width="300px" src="https://raw.githubusercontent.com/jakobhostnik/Snake/master/gh-pages/java-snake_files/game1.png"/><br/><br/>
-<img width="300px" src="https://raw.githubusercontent.com/jakobhostnik/Snake/master/gh-pages/java-snake_files/game2.png"/><br/><br/>
+<img width="300px" src="https://raw.githubusercontent.com/jakobhostnik/Snake/master/gh-pages/java-snake_files/game3.png"/><br/><br/>
