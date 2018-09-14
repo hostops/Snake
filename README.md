@@ -1,4 +1,7 @@
 # SNAKE GAME FRAMEWORK IN JAVA
+![GitHub](https://img.shields.io/github/license/jakobhostnik/snake.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
+[![GitHub stars](https://img.shields.io/github/stars/jakobhostnik/snake.svg)](https://github.com/jakobhostnik/snake/stargazers)  
 Project website: https://jakobhostnik.github.io/Snake/
 This is simple framework which helps you build snake game. Because java is ment to be general as possible, I seperated framework in two independent modules. Because you cannot use same UI in Android, web and desktop app you can replace only UI. **Game module** runs whole game and **UI module** just uses its functions. Primary point is that you can change UI module and use same framework for Android, web, desktop and even console app. 
 
